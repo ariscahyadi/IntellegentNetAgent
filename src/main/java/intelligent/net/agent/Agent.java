@@ -16,7 +16,6 @@ public class Agent {
 		String nodestatus = "OK";
 		
 		String[] events = LogReader.FileReader();
-		//String event = LogReader.FileReader();
 		String event ="";
 		
 		int numberOfEvents = events.length;

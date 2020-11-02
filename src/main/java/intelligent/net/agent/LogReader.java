@@ -11,7 +11,7 @@ public class LogReader {
 	
 	public static String[] FileReader () throws IOException {
 		
-		Reader fileReader = new FileReader("quagga.log");
+		Reader fileReader = new FileReader("log/quagga.log");
         BufferedReader input = new BufferedReader(fileReader);
         
         List<String> lines = new ArrayList<String>();

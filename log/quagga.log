@@ -1,0 +1,5 @@
+2016/05/05 10:47:00 BGP: %ADJCHANGE: neighbor 172.16.1.1 Down BGP Notification received”
+2016/05/05 10:47:00 BGP: %ADJCHANGE: neighbor 172.16.1.2 Down Admin. shutdown”
+2016/05/05 10:47:00 BGP: %ADJCHANGE: neighbor 172.16.1.2 Down Admin. shutdown”
+2016/05/05 10:47:28 BGP: %ADJCHANGE: neighbor 172.16.1.1 Up”
+2016/05/05 11:01:40 BGP: 172.16.1.1 [Event] Transfer accept BGP peer to real (state active)”
